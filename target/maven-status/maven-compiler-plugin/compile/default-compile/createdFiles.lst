@@ -1,0 +1,6 @@
+com\ec2\evaluacion2\Controller\Controller.class
+com\ec2\evaluacion2\Evaluacion2Application.class
+com\ec2\evaluacion2\Repository\CursoRepository.class
+com\ec2\evaluacion2\Service\CursoService.class
+com\ec2\evaluacion2\Controller\CursoController.class
+com\ec2\evaluacion2\Clase\Curso.class
